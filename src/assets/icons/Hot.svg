@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="28" viewBox="0 0 89 28">
+  <g id="Group_976" data-name="Group 976" transform="translate(-7710 524)">
+    <rect id="Rectangle_214" data-name="Rectangle 214" width="89" height="28" rx="3" transform="translate(7710 -524)" fill="#ff4949"/>
+    <text id="Hot" transform="translate(7721 -504.5)" fill="#fff" font-size="14" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Hot</tspan></text>
+    <g id="star-fill" transform="translate(7750 -515.643)">
+      <g id="Group_906" data-name="Group 906" transform="translate(6)">
+        <path id="Path_108" data-name="Path 108" d="M0,0H11.643V11.643H0Z" fill="none"/>
+        <path id="Path_109" data-name="Path 109" d="M5,7.368,2.273,8.895l.609-3.066L.587,3.707l3.1-.368L5,.5,6.31,3.338l3.1.368-2.3,2.122.609,3.066Z" transform="translate(0.821 0.811)" fill="#fff"/>
+        <path id="Path_110" data-name="Path 110" d="M5,7.368,2.273,8.895l.609-3.066L.587,3.707l3.1-.368L5,.5,6.31,3.338l3.1.368-2.3,2.122.609,3.066Z" transform="translate(12.821 0.811)" fill="#fff"/>
+        <path id="Path_111" data-name="Path 111" d="M5,7.368,2.273,8.895l.609-3.066L.587,3.707l3.1-.368L5,.5,6.31,3.338l3.1.368-2.3,2.122.609,3.066Z" transform="translate(24.821 0.811)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
